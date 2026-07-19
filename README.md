@@ -88,7 +88,7 @@ node-todo-app/
 
 ### GitHub Webhook Configuration
 
-![GitHub Webhook](ss/github-webhook.png)
+![GitHub Webhook](ss/21.png)
 
 ### Jenkins Dashboard
 
